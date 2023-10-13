@@ -48,7 +48,8 @@ p {
    
     #cat {
         max-width: 50%;
-        max-height: 50%
+        max-height: 50%;
+        border: 3px solid blue;
     }
 }
 
@@ -76,7 +77,8 @@ p {
 
     #cat {
         max-width: 75%;
-        max-height: 75%
+        max-height: 75%;
+        border: 3px solid red;
     }
 }
 
